@@ -12,7 +12,7 @@ Big Car – very few in the graph.
 
 Tuesday and Monday are the first working days, so a much higher number of trips are made. Considering that Sunday is on the weekend, the number of trips is the lowest, people do not work, choose to stay home or do other recreational activities.
 
-&lt;img width="2758" height="311" alt="image" src="<https://github.com/user-attachments/assets/85c8b187-1b17-4199-a09d-e2a056d70ca1>" /&gt;
+
 
 📆 Consumer behaviors by day:
 
@@ -32,7 +32,6 @@ Considerably low volume (pandemic restrictions or reduced activities), customers
 
 ✅ In addition, large vehicles were avoided, and customers preferred small vehicles, without sharing rides with anyone else.
 
-&lt;img width="1635" height="637" alt="image" src="<https://github.com/user-attachments/assets/80b99735-ca46-4aec-9830-31ee5abf3f08>" /&gt;
 
 What are the top 5 hours with the most trips started?
 
